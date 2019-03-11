@@ -1,4 +1,4 @@
-*Read this in other languages: [中国](README-cn.md), [한국어](README-ko.md), [日本](README-ja.md), [português](README-pt.md)
+# http://marblesayush.mybluemix.net/home
 # Marbles Demo
 
 ## About Marbles
